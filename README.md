@@ -108,5 +108,5 @@ db.courses.find().pretty()
 ![Course deletion blocked](screenshots/13-course-deletion-blocked.png)
 
 ### Database (MongoDB Compass)
-![Students collection](screenshots/14-students-db.png)
-![Courses collection](screenshots/15-courses-db.png)
+![Students collection](screenshots/14-students-mongodb.png)
+![Courses collection](screenshots/15-courses-mongodb.png)
