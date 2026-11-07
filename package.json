@@ -1,0 +1,17 @@
+{
+  "name": "student-management-db",
+  "version": "1.0.0",
+  "description": "Student Management Database - Node.js, Express, MongoDB (Mongoose)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node test/crud.test.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.0"
+  }
+}
